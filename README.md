@@ -1,2 +1,2 @@
-# PRG2-project
-Applying Object Oriented Programming to develop a simple Hotel Guest Management System using C#
+# Developing a simple Hotel Guest Management System using C#
+A simple Hotel Guest Management System using C# for my PRG2 project.
